@@ -7,6 +7,8 @@ https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvb.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/mytv.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/Gather.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/野火959.txt
+https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv4.txt
+https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/myiptv.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/Gather.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/live.txt
@@ -40,7 +42,6 @@ https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt
 http://box.1890222.xyz:8081/iptv/live.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
