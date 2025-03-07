@@ -38,7 +38,6 @@ https://m3u.ibert.me/txt/fmml_dv6.txt
 https://m3u.ibert.me/txt/o_cn.txt
 https://m3u.ibert.me/txt/j_iptv.txt
 http://home.jundie.top:81/Cat/tv/live.txt
-https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt
 http://box.1890222.xyz:8081/iptv/live.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
