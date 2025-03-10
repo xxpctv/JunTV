@@ -41,7 +41,6 @@ http://home.jundie.top:81/Cat/tv/live.txt
 http://box.1890222.xyz:8081/iptv/live.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
