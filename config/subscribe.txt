@@ -5,6 +5,7 @@ https://aktv.top/live.txt
 http://aktv.space/live.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvb.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/mytv.txt
+https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvzb.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/Gather.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/野火959.txt
 https://codeberg.org/sy147258/iptv/raw/branch/main/电视
