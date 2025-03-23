@@ -1,12 +1,13 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://aktv.top/live.txt
+http://xhztv.top/new.txt
 http://aktv.space/live.m3u
 http://xhztv.top/zbc.txt
 https://tv.youdu.fan:666/live/
 https://szyyds.cn/tv/live/x.txt
 http://47.120.41.246:8899/zb.txt
+https://live.kilvn.com/iptv.m3u
 https://fm1077.serv00.net/SmartTV.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvb.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/mytv.txt
