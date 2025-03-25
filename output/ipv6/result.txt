@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-25 18:47:16,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+2025-03-26 06:46:33,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 
 🍄广东频道🏡,#genre#
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
@@ -701,6 +701,7 @@ TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,https://video.mytvsuper.xyz/live/1517e06b57598d4bb26eb0f6ad682d9fe2aabf3ca5e4cd85b5e81c6b9c3ae96a.m3u8?token=825716213175186
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 Hoy 78,http://cdn.163189.xyz/live/hoy/stream.m3u8
+J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 Viutv,https://video.mytvsuper.xyz/live/624259169d3d54442255f9f17d347ddd6324e6d5a5d1a1f748d1dea55798ceea.php?token=825716213175186
 Viutv,http://cdn5.1678520.xyz/live/live2.1.php?id=viu
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
