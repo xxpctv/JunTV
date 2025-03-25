@@ -9,6 +9,7 @@ https://szyyds.cn/tv/live/x.txt
 http://47.120.41.246:8899/zb.txt
 https://live.kilvn.com/iptv.m3u
 https://fm1077.serv00.net/SmartTV.m3u
+https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvb.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/mytv.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvzb.txt
