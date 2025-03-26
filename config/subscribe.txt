@@ -15,6 +15,7 @@ https://cnb.cool/junchao.tang/llive/-/git/raw/main/mytv.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvzb.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/Gather.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/野火959.txt
+https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/auto-iptv/main/live_ipv4.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959
 https://codeberg.org/sy147258/iptv/raw/branch/main/电视
 https://codeberg.org/alantang/MyIPTV/raw/branch/main/MyIPTV.txt
