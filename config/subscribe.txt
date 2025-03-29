@@ -7,7 +7,6 @@ http://xhztv.top/zbc.txt
 https://tv.youdu.fan:666/live/
 https://szyyds.cn/tv/live/x.txt
 http://47.120.41.246:8899/zb.txt
-https://live.kilvn.com/iptv.m3u
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvb.txt
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/mytv.txt
@@ -78,8 +77,6 @@ https://iptv-org.github.io/iptv/countries/tw.m3u
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716213337323/live3.txt
 https://fm1077.serv00.net/SmartTV.m3u
-http://rihou.cc:555/gggg.nzk
-http://rihou.cc:567/gggg.nzk
 https://live.zbds.top/tv/iptv4.txt
 https://live.zbds.top/tv/iptv6.txt
 http://home.jundie.top:81/Cat/tv/live.txt
@@ -92,15 +89,7 @@ http://1805842a.123nat.com:66/agent/2.txt
 https://gitee.com/tushaoyong/live/raw/master/接口/IPV6.txt
 http://tot.totalh.net/tttt.txt
 https://codeberg.org/sy147258/iptv/raw/branch/main/电视
-https://codeberg.org/alantang/MyIPTV/raw/branch/main/MyIPTV.txt
-https://codeberg.org/alantang/MyIPTV/raw/branch/main/MyOg.txt
 https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-CU-ipv6.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/myiptv.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/Gather.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/live.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/清风.m3u8
 https://a90120.serv00.net/anbox/p3plink.txt
 http://175.178.251.183:6689/live.txt
 https://7337.kstore.space/twkj/tvzb.txt
