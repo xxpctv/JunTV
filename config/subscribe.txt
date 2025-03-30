@@ -1,18 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-http://xhztv.top/new.txt
 http://aktv.space/live.m3u
-http://xhztv.top/zbc.txt
-https://tv.youdu.fan:666/live/
 https://szyyds.cn/tv/live/x.txt
 http://47.120.41.246:8899/zb.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
-https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvb.txt
-https://cnb.cool/junchao.tang/llive/-/git/raw/main/mytv.txt
-https://cnb.cool/junchao.tang/llive/-/git/raw/main/tvzb.txt
-https://cnb.cool/junchao.tang/llive/-/git/raw/main/Gather.m3u
-https://cnb.cool/junchao.tang/llive/-/git/raw/main/野火959.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/auto-iptv/main/live_ipv4.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959
@@ -20,18 +12,7 @@ https://codeberg.org/lxxcp/live/raw/branch/main/gsdx.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv4.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
-https://ygbh.site/php/bhzb.php
-https://tv.iill.top/m3u/Gather
-https://tv.iill.top/m3u/Live
-https://tv.iill.top/m3u/Sport
-https://live.freetv.top/huyayqk.m3u
-https://live.freetv.top/douyuyqk.m3u
-http://wx.thego.cn/hk.txt
 https://live.zhoujie218.top/tv/iptv4.txt
-https://tv.850930.xyz/kdsb.txt
-https://tv.850930.xyz/pix.m3u
-https://freetv.fun/test_channels_original_new.txt
-https://fel.forxhr.top:2022/down.php/c1d38fe9c83d8387e898a16e0ce5ade1.txt
 https://jihulab.com/-/snippets/5265/raw/main/.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/cyalias/mytvs-github/refs/heads/main/mytv.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
@@ -47,7 +28,6 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/refs/heads/mai
 https://gh.tryxd.cn/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
@@ -67,9 +47,6 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/xiongjian83/TvBox/refs/hea
 https://gh.tryxd.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门2023.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2023.m3u8
-https://gh.tryxd.cn/https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_华数.黑莓.NewTV.SiTV.CIBN.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt
 https://iptv-org.github.io/iptv/languages/zho.m3u
 https://iptv-org.github.io/iptv/countries/us.m3u
