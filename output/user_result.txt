@@ -2,6 +2,9 @@
 2025-02-24 06:34:33,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 
 🍄广东频道🏡,#genre#
+广州综合,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111$LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF5%E3%80%8F
+广州综合,http://113.90.244.6:4000/udp/239.253.43.71:5146
+广州综合,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
