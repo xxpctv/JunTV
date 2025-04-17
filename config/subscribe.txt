@@ -9,6 +9,7 @@ https://live.izbds.com/tv/iptv4.m3u
 https://live.izbds.com/tv/iptv6.m3u
 http://aktv.space/live.m3u
 https://tv.iill.top/m3u/Gather
+https://tv.iill.top/m3u/MyTV
 https://szyyds.cn/tv/live/x.txt
 http://47.120.41.246:8899/zb.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
